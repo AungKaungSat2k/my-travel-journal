@@ -1,0 +1,42 @@
+* {
+    font-size: 10.24px;
+    line-height: 12.39px;
+}
+
+.card {
+    padding: 20px 40px;
+    display: flex;
+}
+
+.card--info {
+    display: flex;
+    flex-direction: column;
+    padding: 19px;
+}
+
+.card--location {
+    width: 7px;
+    height: 9.55px;
+}
+
+a.map--link {
+    color: gray;
+    padding-left: 12px;
+}
+
+h1 {
+    font-size: 25px;
+    line-height: 15.13px;
+    font-weight: 700;
+}
+
+h3 {
+    padding-top: 7px;
+    padding-bottom: 9px;
+}
+
+p {
+    color: #000;
+    max-width: 326px;
+    line-height: 15.36px;
+}
