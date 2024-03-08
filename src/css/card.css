@@ -35,7 +35,7 @@ h3 {
     padding-bottom: 9px;
 }
 
-p {
+p.card--p {
     color: #000;
     max-width: 326px;
     line-height: 15.36px;
